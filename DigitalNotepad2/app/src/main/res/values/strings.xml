@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Digital Notepad</string>
+
+
+    <string name="send">Send</string>
+    <string name="notes">Note List</string>
+    <string name="note">Note</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="created">Created</string>
+    <string name="secondsago">Seconds Ago</string>
+    <string name="minutesago">Minutes Ago</string>
+    <string name="hoursago">Hours Ago</string>
+    <string name="daysago">Days Ago</string>
+
+    <string name="priority">Priority</string>
+    <string name="high">High</string>
+    <string name="normal">Normal</string>
+    <string name="low">Low</string>
+
+    <string name="color">Color</string>
+    <string name="setarea">Set Target Area</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_desc">Description</string>
+    <string name="type">Type</string>
+
+
+    <string name="circleradius">Circle Radius</string>
+
+    <string-array name="priorities">
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+    </string-array>
+
+    <string-array name="remindertypes">
+        <item>Location Based</item>
+        <item>Date + Time Based</item>
+        <item>Time Based (Daily)</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>White</item>
+    </string-array>
+</resources>
